@@ -22,9 +22,9 @@
 - 先在option.py配置相关参数，选择模型和backbone，设置相关超参数。
 - 然后运行train.py文件，即可训练模型。
 
-参考代码：
+### 参考代码：
 
-- [Pytorch-Encodeing]: https://github.com/zhanghang1989/PyTorch-Encoding
+- [Pytorch-Encodeing]: https://github.com/zhanghang1989/PyTorch-Encoding	"Pytorch-Encoding"
 
-- [PaddleSeg]: https://github.com/PaddlePaddle/PaddleSeg
+- [PaddleSeg]: https://github.com/PaddlePaddle/PaddleSeg	"PaddleSeg"
 
