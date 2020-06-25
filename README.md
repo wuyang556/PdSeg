@@ -24,7 +24,6 @@
 
 ### 参考代码：
 
-- [Pytorch-Encodeing]: https://github.com/zhanghang1989/PyTorch-Encoding	"Pytorch-Encoding"
-
-- [PaddleSeg]: https://github.com/PaddlePaddle/PaddleSeg	"PaddleSeg"
+- Pytorch-Encoding
+- PaddleSeg
 
